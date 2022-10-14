@@ -833,14 +833,14 @@ footer> .contact-email > img{
     
             /* --- Section3 --- */
     .section3{
-        padding: 170px 640px 0px 121px;
+        padding: 103.55px 370.67px 0px 70.08px;
     }        
     
     .section3 > .list-block{
-        width: 662px;
-        height: 374px;
+        width: 383.41px;
+        height: 216.61px;
         font-weight: 400;
-        font-size: 24px;
+        font-size: 14px;
         line-height: 150%;
         margin-top: 30px;
         margin-left: 17px;
@@ -856,13 +856,13 @@ footer> .contact-email > img{
     
     .section4-h2 {
         margin-left: 121px;
-        width: 905px;
-        height: 93px;
+        width: 524.15px;
+        height: 53.86px;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 700;
-        font-size: 55px;
-        line-height: 56px;
+        font-size: 32px;
+        line-height: 32px;
     }
     
     .section4-cards {
@@ -874,11 +874,11 @@ footer> .contact-email > img{
     
     .section4-cards > .cards {
         border: 1px solid violet;
-        width: 399px;
-        height: 328px;
+        width: 231.09px;
+        height: 189.97px;
         background-color: #FFFFFF;
         box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
-        border-radius: 30px;
+        border-radius: 17.375px;      
         margin-right: 37px;
         margin-bottom: 41px;
         border-style: none;
@@ -886,71 +886,69 @@ footer> .contact-email > img{
     }
     
     .section4-cards > .cards > img {
-        width: 399px;
-        height: 160px;
+        width: 231.09px;
+        height: 92.67px;
     }
     
     .cards-h5 {
-        width: 365px;
-        height: 39px;
+        width: 211.4px;
+        height: 22.59px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
-        font-size: 30px;
-        line-height: 39px;
+        font-size: 17px;
+        line-height: 22px;
         margin-top: 11px;
         margin-left: 20px;
     }
     
     .cards-p {
-        width: 365px;
-        height: 63px;
+        width: 211.4px;
+        height: 36.49px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 25px;
-        line-height: 32px;
+        font-size: 14px;
+        line-height: 18px;
         margin-left: 19px;
         margin-top: 32px;
     }
     
     .header {
-        line-height: 29px;
+        line-height: 16px;
     }
     
             /* section5 start*/
     .section5 {
-        width: 1440px;
-        height: 780px;
+        width: 834px;
+        height: 451.75px;
         background: #EFEFEF;
-        margin-top: 80px;
+        margin-top: 52.6px;
     }
     
-    .section5 .section5-head {
+    
+    .section5  h2 {
         position: relative;
-        width: 987px;
-        height: 93px;
+        width: 571.64px;
+        height: 53.86px;
         left: 121px;
         top: 91px;
-    }
-    
-    .section5 .section5-head h2 {
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 700;
-        font-size: 55px;
+        font-size: 32px;
         line-height: 101.38%;
     }
     
     .section5 .section5-card {
-        height: 451px;
-        width: 791px;
-        position: relative;
-        top: 125px;
-        left: 121px;
+        position: absolute;
+        width: 458.12px;
+        height: 261.2px;
+        left: 72.97px;
+        top: 2797.26px;
         background: #FFFFFF;
-        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
-        border-radius: 30px;
+        box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+        border-radius: 17.375px;
     }
     
     .section5 .section5-card p {
@@ -995,43 +993,44 @@ footer> .contact-email > img{
     
     
     .section6{
-        width: 1440px;
-        height: 780px;
+        width: 834px; 
+        height: 451.75px;
         background: #9DC9C8;
     }
     .section6-container{
-        padding-top: 179px;
-        padding-left: 122px;
-        padding-bottom: 185px;
-    } 
+        padding-top: 103.67px;
+        padding-left: 70.66px;
+        padding-bottom: 107.15px;
+        padding-right: 237.46px;
+    }
     .section6-h1{
-        width: 908px;
-        height: 66px;
+        width: 525.88px;
+        height: 38.23px;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 700;
-        font-size: 55px;
-        line-height: 56px;
+        font-size: 32px;
+        line-height: 32px;
         margin-bottom: 54px;
     }
     .section6-text1{
-        width: 170px;
-        height: 32px;
+        width: 98.46px;
+        height: 18.53px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 25px;
-        line-height: 25px;
+        font-size: 14px;
+        line-height: 14px;
         margin-bottom: 30px;
     }
     .section6-text2{
-        width: 481px;
-        height: 181px;
+        width: 278.58px;
+        height: 104.83px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 80px;
-        line-height: 81px;
+        font-size: 46px;
+        line-height: 47px;
         margin-top: -40px;
     }
     .section6-div{
@@ -1041,23 +1040,23 @@ footer> .contact-email > img{
         margin-right: 70px;
     }
     .section6-text h5{
-        width: 294px;
-        height: 32px;
+        width: 170.28px;
+        height: 18.53px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 25px;
-        line-height: 25px;
+        font-size: 14px;
+        line-height: 14px;
     }
      .section6-text p{
-        width: 294px;
-        height: 70px;
+        width: 170.28px;
+        height: 40.54px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 18px;
-        line-height: 18px;
-        margin-top: 9px;
+        font-size: 10px;
+        line-height: 10px;
+        margin-bottom: 107.15;    
     }         
     
     
